@@ -219,7 +219,7 @@ The architecture intentionally balances deterministic logic, lightweight ML, and
 
 [Gradio UI – Overview](https://github.com/AAdi-112/conversation-evaluation/blob/624cc91a516a5d3716f43297df6765648e9aeecc/assets/conversation%20evaluation%20UI%20home.png)
 
-[Gradio UI – Facet Scores 1]([assets/ui_scores.png](https://github.com/AAdi-112/conversation-evaluation/blob/624cc91a516a5d3716f43297df6765648e9aeecc/assets/conversation%20evaluation%20UI%20results%201.png))
+[Gradio UI – Facet Scores 1](https://github.com/AAdi-112/conversation-evaluation/blob/624cc91a516a5d3716f43297df6765648e9aeecc/assets/conversation%20evaluation%20UI%20results%201.png)
 
-[Gradio UI – Facet Scores 2]([[assets/ui_scores.png](https://github.com/AAdi-112/conversation-evaluation/blob/624cc91a516a5d3716f43297df6765648e9aeecc/assets/conversation%20evaluation%20UI%20results%201.png)](https://github.com/AAdi-112/conversation-evaluation/blob/624cc91a516a5d3716f43297df6765648e9aeecc/assets/conversation%20evaluation%20UI%20results%202.png))
+[Gradio UI – Facet Scores 2](https://github.com/AAdi-112/conversation-evaluation/blob/624cc91a516a5d3716f43297df6765648e9aeecc/assets/conversation%20evaluation%20UI%20results%202.png)
 
