@@ -1,0 +1,991 @@
+facet,score,confidence,conversation_id,conversation_text
+Risktaking,3,0.13,0,This person threatened me and I feel unsafe after the conversation.
+Naivety,3,0.04,0,This person threatened me and I feel unsafe after the conversation.
+Acidity,3,-0.02,0,This person threatened me and I feel unsafe after the conversation.
+Democratic Leadership:,3,-0.0,0,This person threatened me and I feel unsafe after the conversation.
+Common-sense,3,0.03,0,This person threatened me and I feel unsafe after the conversation.
+Hesitation,3,0.13,0,This person threatened me and I feel unsafe after the conversation.
+Discontentment,3,0.06,0,This person threatened me and I feel unsafe after the conversation.
+Overprotectiveness,2,0.18,0,This person threatened me and I feel unsafe after the conversation.
+Merriness,3,0.03,0,This person threatened me and I feel unsafe after the conversation.
+Emotionalism,3,0.13,0,This person threatened me and I feel unsafe after the conversation.
+Self-improvement,3,0.04,0,This person threatened me and I feel unsafe after the conversation.
+Statistical Reasoning,3,-0.12,0,This person threatened me and I feel unsafe after the conversation.
+Assertiveness and control in relationships,2,0.25,0,This person threatened me and I feel unsafe after the conversation.
+Cunningness,3,0.08,0,This person threatened me and I feel unsafe after the conversation.
+Adventure-Seeking Behavior,3,0.1,0,This person threatened me and I feel unsafe after the conversation.
+Compassion Fatigue,3,0.08,0,This person threatened me and I feel unsafe after the conversation.
+Moroseness,3,-0.04,0,This person threatened me and I feel unsafe after the conversation.
+Specialist,3,0.09,0,This person threatened me and I feel unsafe after the conversation.
+Aloofness,2,0.16,0,This person threatened me and I feel unsafe after the conversation.
+Genuine,3,0.03,0,This person threatened me and I feel unsafe after the conversation.
+Determinedness,3,-0.06,0,This person threatened me and I feel unsafe after the conversation.
+HonestyHumility:,3,0.13,0,This person threatened me and I feel unsafe after the conversation.
+Relationship Building Themes:,3,0.08,0,This person threatened me and I feel unsafe after the conversation.
+Pure Challenge,3,0.01,0,This person threatened me and I feel unsafe after the conversation.
+Numerical Reasoning Subcomponents:,3,-0.06,0,This person threatened me and I feel unsafe after the conversation.
+Openness,3,-0.03,0,This person threatened me and I feel unsafe after the conversation.
+SelfEsteem,3,0.07,0,This person threatened me and I feel unsafe after the conversation.
+Comparing alphanumeric data,3,0.0,0,This person threatened me and I feel unsafe after the conversation.
+Big-heartedness,3,0.13,0,This person threatened me and I feel unsafe after the conversation.
+Compulsive activities,3,0.06,0,This person threatened me and I feel unsafe after the conversation.
+Risktaking,3,0.05,1,I was verbally abused and now I am scared.
+Naivety,3,-0.04,1,I was verbally abused and now I am scared.
+Acidity,3,-0.02,1,I was verbally abused and now I am scared.
+Democratic Leadership:,3,-0.01,1,I was verbally abused and now I am scared.
+Common-sense,3,-0.03,1,I was verbally abused and now I am scared.
+Hesitation,3,0.05,1,I was verbally abused and now I am scared.
+Discontentment,3,0.03,1,I was verbally abused and now I am scared.
+Overprotectiveness,3,0.05,1,I was verbally abused and now I am scared.
+Merriness,3,0.05,1,I was verbally abused and now I am scared.
+Emotionalism,3,0.14,1,I was verbally abused and now I am scared.
+Self-improvement,3,0.04,1,I was verbally abused and now I am scared.
+Statistical Reasoning,3,-0.16,1,I was verbally abused and now I am scared.
+Assertiveness and control in relationships,2,0.18,1,I was verbally abused and now I am scared.
+Cunningness,3,-0.07,1,I was verbally abused and now I am scared.
+Adventure-Seeking Behavior,3,0.04,1,I was verbally abused and now I am scared.
+Compassion Fatigue,3,0.13,1,I was verbally abused and now I am scared.
+Moroseness,3,0.01,1,I was verbally abused and now I am scared.
+Specialist,3,-0.05,1,I was verbally abused and now I am scared.
+Aloofness,3,0.1,1,I was verbally abused and now I am scared.
+Genuine,3,-0.05,1,I was verbally abused and now I am scared.
+Determinedness,3,-0.07,1,I was verbally abused and now I am scared.
+HonestyHumility:,3,-0.02,1,I was verbally abused and now I am scared.
+Relationship Building Themes:,3,0.0,1,I was verbally abused and now I am scared.
+Pure Challenge,3,-0.02,1,I was verbally abused and now I am scared.
+Numerical Reasoning Subcomponents:,3,-0.08,1,I was verbally abused and now I am scared.
+Openness,3,-0.05,1,I was verbally abused and now I am scared.
+SelfEsteem,3,0.12,1,I was verbally abused and now I am scared.
+Comparing alphanumeric data,3,0.05,1,I was verbally abused and now I am scared.
+Big-heartedness,3,0.11,1,I was verbally abused and now I am scared.
+Compulsive activities,3,0.11,1,I was verbally abused and now I am scared.
+Risktaking,3,0.04,2,Someone told me they would hurt me if I reported them.
+Naivety,3,0.09,2,Someone told me they would hurt me if I reported them.
+Acidity,3,-0.0,2,Someone told me they would hurt me if I reported them.
+Democratic Leadership:,3,-0.07,2,Someone told me they would hurt me if I reported them.
+Common-sense,3,0.08,2,Someone told me they would hurt me if I reported them.
+Hesitation,3,0.03,2,Someone told me they would hurt me if I reported them.
+Discontentment,3,0.05,2,Someone told me they would hurt me if I reported them.
+Overprotectiveness,3,0.12,2,Someone told me they would hurt me if I reported them.
+Merriness,3,0.05,2,Someone told me they would hurt me if I reported them.
+Emotionalism,3,0.07,2,Someone told me they would hurt me if I reported them.
+Self-improvement,3,0.01,2,Someone told me they would hurt me if I reported them.
+Statistical Reasoning,3,-0.05,2,Someone told me they would hurt me if I reported them.
+Assertiveness and control in relationships,3,0.1,2,Someone told me they would hurt me if I reported them.
+Cunningness,3,0.07,2,Someone told me they would hurt me if I reported them.
+Adventure-Seeking Behavior,3,0.07,2,Someone told me they would hurt me if I reported them.
+Compassion Fatigue,3,0.09,2,Someone told me they would hurt me if I reported them.
+Moroseness,3,0.04,2,Someone told me they would hurt me if I reported them.
+Specialist,3,0.12,2,Someone told me they would hurt me if I reported them.
+Aloofness,3,0.1,2,Someone told me they would hurt me if I reported them.
+Genuine,3,0.12,2,Someone told me they would hurt me if I reported them.
+Determinedness,3,-0.01,2,Someone told me they would hurt me if I reported them.
+HonestyHumility:,3,0.1,2,Someone told me they would hurt me if I reported them.
+Relationship Building Themes:,3,-0.04,2,Someone told me they would hurt me if I reported them.
+Pure Challenge,3,0.03,2,Someone told me they would hurt me if I reported them.
+Numerical Reasoning Subcomponents:,3,-0.03,2,Someone told me they would hurt me if I reported them.
+Openness,3,-0.02,2,Someone told me they would hurt me if I reported them.
+SelfEsteem,3,0.11,2,Someone told me they would hurt me if I reported them.
+Comparing alphanumeric data,3,0.03,2,Someone told me they would hurt me if I reported them.
+Big-heartedness,2,0.16,2,Someone told me they would hurt me if I reported them.
+Compulsive activities,3,0.15,2,Someone told me they would hurt me if I reported them.
+Risktaking,3,0.08,3,I feel extremely disappointed and frustrated with the service.
+Naivety,3,0.13,3,I feel extremely disappointed and frustrated with the service.
+Acidity,3,0.0,3,I feel extremely disappointed and frustrated with the service.
+Democratic Leadership:,3,0.03,3,I feel extremely disappointed and frustrated with the service.
+Common-sense,3,0.05,3,I feel extremely disappointed and frustrated with the service.
+Hesitation,2,0.21,3,I feel extremely disappointed and frustrated with the service.
+Discontentment,2,0.26,3,I feel extremely disappointed and frustrated with the service.
+Overprotectiveness,3,-0.05,3,I feel extremely disappointed and frustrated with the service.
+Merriness,3,0.05,3,I feel extremely disappointed and frustrated with the service.
+Emotionalism,3,0.12,3,I feel extremely disappointed and frustrated with the service.
+Self-improvement,3,0.04,3,I feel extremely disappointed and frustrated with the service.
+Statistical Reasoning,3,-0.07,3,I feel extremely disappointed and frustrated with the service.
+Assertiveness and control in relationships,3,-0.02,3,I feel extremely disappointed and frustrated with the service.
+Cunningness,3,0.06,3,I feel extremely disappointed and frustrated with the service.
+Adventure-Seeking Behavior,3,0.03,3,I feel extremely disappointed and frustrated with the service.
+Compassion Fatigue,2,0.25,3,I feel extremely disappointed and frustrated with the service.
+Moroseness,3,0.13,3,I feel extremely disappointed and frustrated with the service.
+Specialist,3,0.12,3,I feel extremely disappointed and frustrated with the service.
+Aloofness,3,0.1,3,I feel extremely disappointed and frustrated with the service.
+Genuine,3,0.12,3,I feel extremely disappointed and frustrated with the service.
+Determinedness,3,0.0,3,I feel extremely disappointed and frustrated with the service.
+HonestyHumility:,3,0.08,3,I feel extremely disappointed and frustrated with the service.
+Relationship Building Themes:,3,0.03,3,I feel extremely disappointed and frustrated with the service.
+Pure Challenge,3,0.13,3,I feel extremely disappointed and frustrated with the service.
+Numerical Reasoning Subcomponents:,3,-0.11,3,I feel extremely disappointed and frustrated with the service.
+Openness,3,0.01,3,I feel extremely disappointed and frustrated with the service.
+SelfEsteem,3,0.15,3,I feel extremely disappointed and frustrated with the service.
+Comparing alphanumeric data,3,0.01,3,I feel extremely disappointed and frustrated with the service.
+Big-heartedness,3,0.08,3,I feel extremely disappointed and frustrated with the service.
+Compulsive activities,3,0.08,3,I feel extremely disappointed and frustrated with the service.
+Risktaking,3,0.12,4,This experience made me very happy and satisfied.
+Naivety,3,0.02,4,This experience made me very happy and satisfied.
+Acidity,3,0.07,4,This experience made me very happy and satisfied.
+Democratic Leadership:,3,-0.04,4,This experience made me very happy and satisfied.
+Common-sense,3,0.0,4,This experience made me very happy and satisfied.
+Hesitation,3,0.11,4,This experience made me very happy and satisfied.
+Discontentment,3,0.04,4,This experience made me very happy and satisfied.
+Overprotectiveness,3,0.01,4,This experience made me very happy and satisfied.
+Merriness,3,0.07,4,This experience made me very happy and satisfied.
+Emotionalism,3,0.04,4,This experience made me very happy and satisfied.
+Self-improvement,2,0.15,4,This experience made me very happy and satisfied.
+Statistical Reasoning,3,-0.1,4,This experience made me very happy and satisfied.
+Assertiveness and control in relationships,3,0.07,4,This experience made me very happy and satisfied.
+Cunningness,3,0.02,4,This experience made me very happy and satisfied.
+Adventure-Seeking Behavior,3,0.09,4,This experience made me very happy and satisfied.
+Compassion Fatigue,3,0.11,4,This experience made me very happy and satisfied.
+Moroseness,3,0.15,4,This experience made me very happy and satisfied.
+Specialist,3,0.06,4,This experience made me very happy and satisfied.
+Aloofness,3,0.14,4,This experience made me very happy and satisfied.
+Genuine,2,0.22,4,This experience made me very happy and satisfied.
+Determinedness,3,-0.05,4,This experience made me very happy and satisfied.
+HonestyHumility:,3,0.12,4,This experience made me very happy and satisfied.
+Relationship Building Themes:,3,0.1,4,This experience made me very happy and satisfied.
+Pure Challenge,2,0.17,4,This experience made me very happy and satisfied.
+Numerical Reasoning Subcomponents:,3,-0.11,4,This experience made me very happy and satisfied.
+Openness,3,0.05,4,This experience made me very happy and satisfied.
+SelfEsteem,2,0.2,4,This experience made me very happy and satisfied.
+Comparing alphanumeric data,3,-0.09,4,This experience made me very happy and satisfied.
+Big-heartedness,3,0.12,4,This experience made me very happy and satisfied.
+Compulsive activities,3,0.12,4,This experience made me very happy and satisfied.
+Risktaking,3,-0.02,5,I am angry because my issue was ignored repeatedly.
+Naivety,3,0.08,5,I am angry because my issue was ignored repeatedly.
+Acidity,3,-0.01,5,I am angry because my issue was ignored repeatedly.
+Democratic Leadership:,3,0.01,5,I am angry because my issue was ignored repeatedly.
+Common-sense,3,0.08,5,I am angry because my issue was ignored repeatedly.
+Hesitation,2,0.25,5,I am angry because my issue was ignored repeatedly.
+Discontentment,2,0.27,5,I am angry because my issue was ignored repeatedly.
+Overprotectiveness,3,0.09,5,I am angry because my issue was ignored repeatedly.
+Merriness,3,0.04,5,I am angry because my issue was ignored repeatedly.
+Emotionalism,2,0.21,5,I am angry because my issue was ignored repeatedly.
+Self-improvement,3,0.13,5,I am angry because my issue was ignored repeatedly.
+Statistical Reasoning,3,-0.03,5,I am angry because my issue was ignored repeatedly.
+Assertiveness and control in relationships,2,0.19,5,I am angry because my issue was ignored repeatedly.
+Cunningness,3,0.09,5,I am angry because my issue was ignored repeatedly.
+Adventure-Seeking Behavior,3,0.15,5,I am angry because my issue was ignored repeatedly.
+Compassion Fatigue,2,0.2,5,I am angry because my issue was ignored repeatedly.
+Moroseness,3,0.09,5,I am angry because my issue was ignored repeatedly.
+Specialist,3,0.06,5,I am angry because my issue was ignored repeatedly.
+Aloofness,2,0.18,5,I am angry because my issue was ignored repeatedly.
+Genuine,3,0.11,5,I am angry because my issue was ignored repeatedly.
+Determinedness,3,0.09,5,I am angry because my issue was ignored repeatedly.
+HonestyHumility:,3,0.14,5,I am angry because my issue was ignored repeatedly.
+Relationship Building Themes:,3,0.04,5,I am angry because my issue was ignored repeatedly.
+Pure Challenge,3,0.09,5,I am angry because my issue was ignored repeatedly.
+Numerical Reasoning Subcomponents:,3,0.03,5,I am angry because my issue was ignored repeatedly.
+Openness,3,0.04,5,I am angry because my issue was ignored repeatedly.
+SelfEsteem,2,0.16,5,I am angry because my issue was ignored repeatedly.
+Comparing alphanumeric data,3,-0.01,5,I am angry because my issue was ignored repeatedly.
+Big-heartedness,2,0.16,5,I am angry because my issue was ignored repeatedly.
+Compulsive activities,3,0.08,5,I am angry because my issue was ignored repeatedly.
+Risktaking,3,-0.01,6,I feel anxious and stressed after talking to support.
+Naivety,3,0.03,6,I feel anxious and stressed after talking to support.
+Acidity,3,0.07,6,I feel anxious and stressed after talking to support.
+Democratic Leadership:,3,0.04,6,I feel anxious and stressed after talking to support.
+Common-sense,3,-0.02,6,I feel anxious and stressed after talking to support.
+Hesitation,2,0.27,6,I feel anxious and stressed after talking to support.
+Discontentment,2,0.22,6,I feel anxious and stressed after talking to support.
+Overprotectiveness,3,0.03,6,I feel anxious and stressed after talking to support.
+Merriness,3,0.04,6,I feel anxious and stressed after talking to support.
+Emotionalism,2,0.29,6,I feel anxious and stressed after talking to support.
+Self-improvement,3,0.09,6,I feel anxious and stressed after talking to support.
+Statistical Reasoning,3,-0.07,6,I feel anxious and stressed after talking to support.
+Assertiveness and control in relationships,2,0.25,6,I feel anxious and stressed after talking to support.
+Cunningness,3,-0.06,6,I feel anxious and stressed after talking to support.
+Adventure-Seeking Behavior,3,-0.02,6,I feel anxious and stressed after talking to support.
+Compassion Fatigue,4,0.36,6,I feel anxious and stressed after talking to support.
+Moroseness,3,0.11,6,I feel anxious and stressed after talking to support.
+Specialist,3,0.06,6,I feel anxious and stressed after talking to support.
+Aloofness,3,0.1,6,I feel anxious and stressed after talking to support.
+Genuine,3,0.02,6,I feel anxious and stressed after talking to support.
+Determinedness,3,-0.07,6,I feel anxious and stressed after talking to support.
+HonestyHumility:,3,0.06,6,I feel anxious and stressed after talking to support.
+Relationship Building Themes:,2,0.17,6,I feel anxious and stressed after talking to support.
+Pure Challenge,3,-0.01,6,I feel anxious and stressed after talking to support.
+Numerical Reasoning Subcomponents:,3,-0.03,6,I feel anxious and stressed after talking to support.
+Openness,3,-0.02,6,I feel anxious and stressed after talking to support.
+SelfEsteem,3,0.04,6,I feel anxious and stressed after talking to support.
+Comparing alphanumeric data,3,-0.0,6,I feel anxious and stressed after talking to support.
+Big-heartedness,3,0.14,6,I feel anxious and stressed after talking to support.
+Compulsive activities,3,0.15,6,I feel anxious and stressed after talking to support.
+Risktaking,3,0.13,7,Please explain the refund policy in detail.
+Naivety,3,0.09,7,Please explain the refund policy in detail.
+Acidity,3,0.06,7,Please explain the refund policy in detail.
+Democratic Leadership:,3,-0.02,7,Please explain the refund policy in detail.
+Common-sense,3,0.09,7,Please explain the refund policy in detail.
+Hesitation,3,0.05,7,Please explain the refund policy in detail.
+Discontentment,3,0.02,7,Please explain the refund policy in detail.
+Overprotectiveness,3,0.06,7,Please explain the refund policy in detail.
+Merriness,3,-0.05,7,Please explain the refund policy in detail.
+Emotionalism,3,0.04,7,Please explain the refund policy in detail.
+Self-improvement,3,0.1,7,Please explain the refund policy in detail.
+Statistical Reasoning,3,0.03,7,Please explain the refund policy in detail.
+Assertiveness and control in relationships,3,0.03,7,Please explain the refund policy in detail.
+Cunningness,3,0.1,7,Please explain the refund policy in detail.
+Adventure-Seeking Behavior,3,0.09,7,Please explain the refund policy in detail.
+Compassion Fatigue,3,-0.03,7,Please explain the refund policy in detail.
+Moroseness,3,0.08,7,Please explain the refund policy in detail.
+Specialist,3,0.04,7,Please explain the refund policy in detail.
+Aloofness,3,0.06,7,Please explain the refund policy in detail.
+Genuine,3,0.1,7,Please explain the refund policy in detail.
+Determinedness,3,0.01,7,Please explain the refund policy in detail.
+HonestyHumility:,3,0.07,7,Please explain the refund policy in detail.
+Relationship Building Themes:,3,-0.05,7,Please explain the refund policy in detail.
+Pure Challenge,3,0.06,7,Please explain the refund policy in detail.
+Numerical Reasoning Subcomponents:,3,-0.01,7,Please explain the refund policy in detail.
+Openness,3,-0.03,7,Please explain the refund policy in detail.
+SelfEsteem,3,0.05,7,Please explain the refund policy in detail.
+Comparing alphanumeric data,3,-0.06,7,Please explain the refund policy in detail.
+Big-heartedness,3,-0.05,7,Please explain the refund policy in detail.
+Compulsive activities,3,-0.06,7,Please explain the refund policy in detail.
+Risktaking,3,0.03,8,What are the steps required to reset my password?
+Naivety,3,-0.06,8,What are the steps required to reset my password?
+Acidity,3,0.01,8,What are the steps required to reset my password?
+Democratic Leadership:,3,0.14,8,What are the steps required to reset my password?
+Common-sense,3,-0.04,8,What are the steps required to reset my password?
+Hesitation,3,0.0,8,What are the steps required to reset my password?
+Discontentment,3,-0.06,8,What are the steps required to reset my password?
+Overprotectiveness,3,-0.04,8,What are the steps required to reset my password?
+Merriness,3,0.03,8,What are the steps required to reset my password?
+Emotionalism,3,-0.02,8,What are the steps required to reset my password?
+Self-improvement,3,0.01,8,What are the steps required to reset my password?
+Statistical Reasoning,3,-0.02,8,What are the steps required to reset my password?
+Assertiveness and control in relationships,3,-0.04,8,What are the steps required to reset my password?
+Cunningness,3,0.06,8,What are the steps required to reset my password?
+Adventure-Seeking Behavior,3,0.06,8,What are the steps required to reset my password?
+Compassion Fatigue,3,-0.05,8,What are the steps required to reset my password?
+Moroseness,3,0.04,8,What are the steps required to reset my password?
+Specialist,3,-0.06,8,What are the steps required to reset my password?
+Aloofness,3,-0.09,8,What are the steps required to reset my password?
+Genuine,3,0.09,8,What are the steps required to reset my password?
+Determinedness,3,-0.02,8,What are the steps required to reset my password?
+HonestyHumility:,3,0.02,8,What are the steps required to reset my password?
+Relationship Building Themes:,3,-0.04,8,What are the steps required to reset my password?
+Pure Challenge,3,0.14,8,What are the steps required to reset my password?
+Numerical Reasoning Subcomponents:,3,0.01,8,What are the steps required to reset my password?
+Openness,3,0.05,8,What are the steps required to reset my password?
+SelfEsteem,3,0.07,8,What are the steps required to reset my password?
+Comparing alphanumeric data,3,0.03,8,What are the steps required to reset my password?
+Big-heartedness,3,-0.05,8,What are the steps required to reset my password?
+Compulsive activities,3,0.02,8,What are the steps required to reset my password?
+Risktaking,3,-0.02,9,Can you share the working hours of customer support?
+Naivety,3,0.02,9,Can you share the working hours of customer support?
+Acidity,3,0.04,9,Can you share the working hours of customer support?
+Democratic Leadership:,3,0.03,9,Can you share the working hours of customer support?
+Common-sense,3,0.08,9,Can you share the working hours of customer support?
+Hesitation,3,-0.05,9,Can you share the working hours of customer support?
+Discontentment,3,0.04,9,Can you share the working hours of customer support?
+Overprotectiveness,3,0.02,9,Can you share the working hours of customer support?
+Merriness,3,-0.01,9,Can you share the working hours of customer support?
+Emotionalism,3,0.02,9,Can you share the working hours of customer support?
+Self-improvement,3,0.05,9,Can you share the working hours of customer support?
+Statistical Reasoning,3,0.07,9,Can you share the working hours of customer support?
+Assertiveness and control in relationships,3,0.11,9,Can you share the working hours of customer support?
+Cunningness,3,0.06,9,Can you share the working hours of customer support?
+Adventure-Seeking Behavior,3,0.04,9,Can you share the working hours of customer support?
+Compassion Fatigue,2,0.18,9,Can you share the working hours of customer support?
+Moroseness,3,-0.04,9,Can you share the working hours of customer support?
+Specialist,3,0.14,9,Can you share the working hours of customer support?
+Aloofness,3,0.03,9,Can you share the working hours of customer support?
+Genuine,3,0.07,9,Can you share the working hours of customer support?
+Determinedness,3,-0.02,9,Can you share the working hours of customer support?
+HonestyHumility:,3,0.07,9,Can you share the working hours of customer support?
+Relationship Building Themes:,3,0.1,9,Can you share the working hours of customer support?
+Pure Challenge,3,-0.04,9,Can you share the working hours of customer support?
+Numerical Reasoning Subcomponents:,3,0.03,9,Can you share the working hours of customer support?
+Openness,3,0.07,9,Can you share the working hours of customer support?
+SelfEsteem,3,-0.03,9,Can you share the working hours of customer support?
+Comparing alphanumeric data,3,-0.05,9,Can you share the working hours of customer support?
+Big-heartedness,3,0.08,9,Can you share the working hours of customer support?
+Compulsive activities,3,0.04,9,Can you share the working hours of customer support?
+Risktaking,3,0.08,10,Can you help me understand why my request was rejected?
+Naivety,3,0.11,10,Can you help me understand why my request was rejected?
+Acidity,3,0.09,10,Can you help me understand why my request was rejected?
+Democratic Leadership:,3,0.05,10,Can you help me understand why my request was rejected?
+Common-sense,3,0.07,10,Can you help me understand why my request was rejected?
+Hesitation,2,0.24,10,Can you help me understand why my request was rejected?
+Discontentment,3,0.09,10,Can you help me understand why my request was rejected?
+Overprotectiveness,3,0.05,10,Can you help me understand why my request was rejected?
+Merriness,3,0.08,10,Can you help me understand why my request was rejected?
+Emotionalism,3,0.13,10,Can you help me understand why my request was rejected?
+Self-improvement,3,0.12,10,Can you help me understand why my request was rejected?
+Statistical Reasoning,3,0.08,10,Can you help me understand why my request was rejected?
+Assertiveness and control in relationships,3,0.12,10,Can you help me understand why my request was rejected?
+Cunningness,3,0.08,10,Can you help me understand why my request was rejected?
+Adventure-Seeking Behavior,3,0.04,10,Can you help me understand why my request was rejected?
+Compassion Fatigue,3,0.07,10,Can you help me understand why my request was rejected?
+Moroseness,3,0.08,10,Can you help me understand why my request was rejected?
+Specialist,3,0.06,10,Can you help me understand why my request was rejected?
+Aloofness,2,0.16,10,Can you help me understand why my request was rejected?
+Genuine,2,0.21,10,Can you help me understand why my request was rejected?
+Determinedness,3,0.09,10,Can you help me understand why my request was rejected?
+HonestyHumility:,3,0.14,10,Can you help me understand why my request was rejected?
+Relationship Building Themes:,3,0.08,10,Can you help me understand why my request was rejected?
+Pure Challenge,3,0.1,10,Can you help me understand why my request was rejected?
+Numerical Reasoning Subcomponents:,3,0.02,10,Can you help me understand why my request was rejected?
+Openness,3,0.11,10,Can you help me understand why my request was rejected?
+SelfEsteem,3,0.12,10,Can you help me understand why my request was rejected?
+Comparing alphanumeric data,3,0.02,10,Can you help me understand why my request was rejected?
+Big-heartedness,3,0.09,10,Can you help me understand why my request was rejected?
+Compulsive activities,3,-0.03,10,Can you help me understand why my request was rejected?
+Risktaking,3,0.14,11,What does this error message mean?
+Naivety,3,0.11,11,What does this error message mean?
+Acidity,3,0.13,11,What does this error message mean?
+Democratic Leadership:,3,0.08,11,What does this error message mean?
+Common-sense,3,0.04,11,What does this error message mean?
+Hesitation,2,0.18,11,What does this error message mean?
+Discontentment,3,0.11,11,What does this error message mean?
+Overprotectiveness,2,0.16,11,What does this error message mean?
+Merriness,3,0.05,11,What does this error message mean?
+Emotionalism,3,0.11,11,What does this error message mean?
+Self-improvement,3,0.13,11,What does this error message mean?
+Statistical Reasoning,3,0.1,11,What does this error message mean?
+Assertiveness and control in relationships,3,0.1,11,What does this error message mean?
+Cunningness,3,0.09,11,What does this error message mean?
+Adventure-Seeking Behavior,3,0.05,11,What does this error message mean?
+Compassion Fatigue,3,0.08,11,What does this error message mean?
+Moroseness,3,0.13,11,What does this error message mean?
+Specialist,3,0.06,11,What does this error message mean?
+Aloofness,3,0.11,11,What does this error message mean?
+Genuine,3,0.1,11,What does this error message mean?
+Determinedness,3,0.06,11,What does this error message mean?
+HonestyHumility:,3,0.06,11,What does this error message mean?
+Relationship Building Themes:,3,0.05,11,What does this error message mean?
+Pure Challenge,3,0.03,11,What does this error message mean?
+Numerical Reasoning Subcomponents:,3,0.09,11,What does this error message mean?
+Openness,3,0.13,11,What does this error message mean?
+SelfEsteem,3,0.11,11,What does this error message mean?
+Comparing alphanumeric data,3,0.01,11,What does this error message mean?
+Big-heartedness,3,0.09,11,What does this error message mean?
+Compulsive activities,3,0.05,11,What does this error message mean?
+Risktaking,3,-0.01,12,Is there any alternative solution available?
+Naivety,3,-0.05,12,Is there any alternative solution available?
+Acidity,3,0.05,12,Is there any alternative solution available?
+Democratic Leadership:,3,0.06,12,Is there any alternative solution available?
+Common-sense,3,0.04,12,Is there any alternative solution available?
+Hesitation,3,-0.03,12,Is there any alternative solution available?
+Discontentment,3,0.04,12,Is there any alternative solution available?
+Overprotectiveness,3,0.06,12,Is there any alternative solution available?
+Merriness,3,0.06,12,Is there any alternative solution available?
+Emotionalism,3,-0.03,12,Is there any alternative solution available?
+Self-improvement,3,0.06,12,Is there any alternative solution available?
+Statistical Reasoning,3,0.05,12,Is there any alternative solution available?
+Assertiveness and control in relationships,3,-0.05,12,Is there any alternative solution available?
+Cunningness,3,-0.07,12,Is there any alternative solution available?
+Adventure-Seeking Behavior,3,-0.1,12,Is there any alternative solution available?
+Compassion Fatigue,3,0.05,12,Is there any alternative solution available?
+Moroseness,3,0.06,12,Is there any alternative solution available?
+Specialist,3,0.08,12,Is there any alternative solution available?
+Aloofness,3,-0.03,12,Is there any alternative solution available?
+Genuine,3,0.06,12,Is there any alternative solution available?
+Determinedness,3,-0.05,12,Is there any alternative solution available?
+HonestyHumility:,3,-0.02,12,Is there any alternative solution available?
+Relationship Building Themes:,3,-0.01,12,Is there any alternative solution available?
+Pure Challenge,3,0.06,12,Is there any alternative solution available?
+Numerical Reasoning Subcomponents:,3,0.1,12,Is there any alternative solution available?
+Openness,3,-0.01,12,Is there any alternative solution available?
+SelfEsteem,3,0.05,12,Is there any alternative solution available?
+Comparing alphanumeric data,3,0.08,12,Is there any alternative solution available?
+Big-heartedness,3,-0.06,12,Is there any alternative solution available?
+Compulsive activities,3,0.01,12,Is there any alternative solution available?
+Risktaking,2,0.15,13,Okay.
+Naivety,2,0.18,13,Okay.
+Acidity,2,0.16,13,Okay.
+Democratic Leadership:,3,0.09,13,Okay.
+Common-sense,2,0.18,13,Okay.
+Hesitation,2,0.21,13,Okay.
+Discontentment,3,0.13,13,Okay.
+Overprotectiveness,3,0.14,13,Okay.
+Merriness,3,0.13,13,Okay.
+Emotionalism,3,0.14,13,Okay.
+Self-improvement,3,0.13,13,Okay.
+Statistical Reasoning,3,0.05,13,Okay.
+Assertiveness and control in relationships,3,0.1,13,Okay.
+Cunningness,2,0.17,13,Okay.
+Adventure-Seeking Behavior,3,0.11,13,Okay.
+Compassion Fatigue,3,0.1,13,Okay.
+Moroseness,2,0.18,13,Okay.
+Specialist,3,0.14,13,Okay.
+Aloofness,2,0.2,13,Okay.
+Genuine,2,0.26,13,Okay.
+Determinedness,2,0.16,13,Okay.
+HonestyHumility:,2,0.21,13,Okay.
+Relationship Building Themes:,3,0.06,13,Okay.
+Pure Challenge,2,0.19,13,Okay.
+Numerical Reasoning Subcomponents:,3,0.08,13,Okay.
+Openness,2,0.25,13,Okay.
+SelfEsteem,2,0.25,13,Okay.
+Comparing alphanumeric data,3,0.05,13,Okay.
+Big-heartedness,2,0.16,13,Okay.
+Compulsive activities,3,0.09,13,Okay.
+Risktaking,2,0.16,14,Fine.
+Naivety,2,0.19,14,Fine.
+Acidity,2,0.21,14,Fine.
+Democratic Leadership:,2,0.17,14,Fine.
+Common-sense,2,0.26,14,Fine.
+Hesitation,2,0.28,14,Fine.
+Discontentment,2,0.2,14,Fine.
+Overprotectiveness,3,0.15,14,Fine.
+Merriness,2,0.16,14,Fine.
+Emotionalism,2,0.2,14,Fine.
+Self-improvement,3,0.13,14,Fine.
+Statistical Reasoning,3,0.04,14,Fine.
+Assertiveness and control in relationships,3,0.1,14,Fine.
+Cunningness,2,0.24,14,Fine.
+Adventure-Seeking Behavior,3,0.09,14,Fine.
+Compassion Fatigue,3,0.13,14,Fine.
+Moroseness,2,0.29,14,Fine.
+Specialist,2,0.17,14,Fine.
+Aloofness,2,0.21,14,Fine.
+Genuine,4,0.34,14,Fine.
+Determinedness,3,0.14,14,Fine.
+HonestyHumility:,2,0.24,14,Fine.
+Relationship Building Themes:,3,0.14,14,Fine.
+Pure Challenge,2,0.2,14,Fine.
+Numerical Reasoning Subcomponents:,3,0.05,14,Fine.
+Openness,2,0.27,14,Fine.
+SelfEsteem,2,0.25,14,Fine.
+Comparing alphanumeric data,3,0.0,14,Fine.
+Big-heartedness,2,0.27,14,Fine.
+Compulsive activities,3,0.12,14,Fine.
+Risktaking,3,0.13,15,I see.
+Naivety,2,0.2,15,I see.
+Acidity,3,0.13,15,I see.
+Democratic Leadership:,2,0.15,15,I see.
+Common-sense,3,0.13,15,I see.
+Hesitation,3,0.09,15,I see.
+Discontentment,3,0.13,15,I see.
+Overprotectiveness,3,0.13,15,I see.
+Merriness,3,0.11,15,I see.
+Emotionalism,3,0.12,15,I see.
+Self-improvement,3,0.06,15,I see.
+Statistical Reasoning,3,0.03,15,I see.
+Assertiveness and control in relationships,3,0.04,15,I see.
+Cunningness,3,0.11,15,I see.
+Adventure-Seeking Behavior,3,0.02,15,I see.
+Compassion Fatigue,3,0.1,15,I see.
+Moroseness,2,0.16,15,I see.
+Specialist,3,0.13,15,I see.
+Aloofness,3,0.15,15,I see.
+Genuine,2,0.17,15,I see.
+Determinedness,3,0.11,15,I see.
+HonestyHumility:,3,0.07,15,I see.
+Relationship Building Themes:,3,0.06,15,I see.
+Pure Challenge,3,0.14,15,I see.
+Numerical Reasoning Subcomponents:,3,0.05,15,I see.
+Openness,2,0.17,15,I see.
+SelfEsteem,3,0.13,15,I see.
+Comparing alphanumeric data,3,0.04,15,I see.
+Big-heartedness,3,0.12,15,I see.
+Compulsive activities,3,-0.0,15,I see.
+Risktaking,2,0.21,16,Not sure.
+Naivety,2,0.16,16,Not sure.
+Acidity,2,0.27,16,Not sure.
+Democratic Leadership:,2,0.16,16,Not sure.
+Common-sense,2,0.19,16,Not sure.
+Hesitation,2,0.23,16,Not sure.
+Discontentment,2,0.2,16,Not sure.
+Overprotectiveness,2,0.17,16,Not sure.
+Merriness,2,0.21,16,Not sure.
+Emotionalism,2,0.22,16,Not sure.
+Self-improvement,2,0.17,16,Not sure.
+Statistical Reasoning,2,0.16,16,Not sure.
+Assertiveness and control in relationships,3,0.09,16,Not sure.
+Cunningness,2,0.16,16,Not sure.
+Adventure-Seeking Behavior,3,0.08,16,Not sure.
+Compassion Fatigue,3,0.14,16,Not sure.
+Moroseness,2,0.18,16,Not sure.
+Specialist,2,0.26,16,Not sure.
+Aloofness,2,0.18,16,Not sure.
+Genuine,4,0.36,16,Not sure.
+Determinedness,2,0.23,16,Not sure.
+HonestyHumility:,2,0.2,16,Not sure.
+Relationship Building Themes:,3,0.06,16,Not sure.
+Pure Challenge,2,0.22,16,Not sure.
+Numerical Reasoning Subcomponents:,3,0.12,16,Not sure.
+Openness,2,0.22,16,Not sure.
+SelfEsteem,2,0.19,16,Not sure.
+Comparing alphanumeric data,3,0.08,16,Not sure.
+Big-heartedness,2,0.16,16,Not sure.
+Compulsive activities,3,0.11,16,Not sure.
+Risktaking,3,-0.01,17,"Given the previous discussion, I think the resolution was unfair."
+Naivety,3,0.12,17,"Given the previous discussion, I think the resolution was unfair."
+Acidity,3,0.06,17,"Given the previous discussion, I think the resolution was unfair."
+Democratic Leadership:,3,0.08,17,"Given the previous discussion, I think the resolution was unfair."
+Common-sense,3,0.14,17,"Given the previous discussion, I think the resolution was unfair."
+Hesitation,2,0.21,17,"Given the previous discussion, I think the resolution was unfair."
+Discontentment,3,0.07,17,"Given the previous discussion, I think the resolution was unfair."
+Overprotectiveness,3,0.05,17,"Given the previous discussion, I think the resolution was unfair."
+Merriness,3,0.06,17,"Given the previous discussion, I think the resolution was unfair."
+Emotionalism,3,0.05,17,"Given the previous discussion, I think the resolution was unfair."
+Self-improvement,3,0.05,17,"Given the previous discussion, I think the resolution was unfair."
+Statistical Reasoning,3,0.11,17,"Given the previous discussion, I think the resolution was unfair."
+Assertiveness and control in relationships,3,0.09,17,"Given the previous discussion, I think the resolution was unfair."
+Cunningness,3,0.07,17,"Given the previous discussion, I think the resolution was unfair."
+Adventure-Seeking Behavior,3,0.06,17,"Given the previous discussion, I think the resolution was unfair."
+Compassion Fatigue,3,0.08,17,"Given the previous discussion, I think the resolution was unfair."
+Moroseness,3,0.1,17,"Given the previous discussion, I think the resolution was unfair."
+Specialist,3,0.06,17,"Given the previous discussion, I think the resolution was unfair."
+Aloofness,3,0.06,17,"Given the previous discussion, I think the resolution was unfair."
+Genuine,3,0.11,17,"Given the previous discussion, I think the resolution was unfair."
+Determinedness,2,0.2,17,"Given the previous discussion, I think the resolution was unfair."
+HonestyHumility:,2,0.18,17,"Given the previous discussion, I think the resolution was unfair."
+Relationship Building Themes:,3,0.11,17,"Given the previous discussion, I think the resolution was unfair."
+Pure Challenge,3,0.12,17,"Given the previous discussion, I think the resolution was unfair."
+Numerical Reasoning Subcomponents:,3,0.1,17,"Given the previous discussion, I think the resolution was unfair."
+Openness,3,0.08,17,"Given the previous discussion, I think the resolution was unfair."
+SelfEsteem,3,0.05,17,"Given the previous discussion, I think the resolution was unfair."
+Comparing alphanumeric data,3,-0.04,17,"Given the previous discussion, I think the resolution was unfair."
+Big-heartedness,2,0.16,17,"Given the previous discussion, I think the resolution was unfair."
+Compulsive activities,3,-0.02,17,"Given the previous discussion, I think the resolution was unfair."
+Risktaking,2,0.16,18,Your response does not address my original concern.
+Naivety,2,0.24,18,Your response does not address my original concern.
+Acidity,3,0.07,18,Your response does not address my original concern.
+Democratic Leadership:,3,0.07,18,Your response does not address my original concern.
+Common-sense,2,0.16,18,Your response does not address my original concern.
+Hesitation,3,0.12,18,Your response does not address my original concern.
+Discontentment,2,0.17,18,Your response does not address my original concern.
+Overprotectiveness,2,0.26,18,Your response does not address my original concern.
+Merriness,3,0.09,18,Your response does not address my original concern.
+Emotionalism,2,0.2,18,Your response does not address my original concern.
+Self-improvement,2,0.15,18,Your response does not address my original concern.
+Statistical Reasoning,3,0.06,18,Your response does not address my original concern.
+Assertiveness and control in relationships,3,0.15,18,Your response does not address my original concern.
+Cunningness,3,0.08,18,Your response does not address my original concern.
+Adventure-Seeking Behavior,3,0.1,18,Your response does not address my original concern.
+Compassion Fatigue,2,0.17,18,Your response does not address my original concern.
+Moroseness,2,0.17,18,Your response does not address my original concern.
+Specialist,3,0.07,18,Your response does not address my original concern.
+Aloofness,2,0.2,18,Your response does not address my original concern.
+Genuine,3,0.14,18,Your response does not address my original concern.
+Determinedness,3,0.15,18,Your response does not address my original concern.
+HonestyHumility:,2,0.21,18,Your response does not address my original concern.
+Relationship Building Themes:,2,0.15,18,Your response does not address my original concern.
+Pure Challenge,3,0.07,18,Your response does not address my original concern.
+Numerical Reasoning Subcomponents:,3,-0.09,18,Your response does not address my original concern.
+Openness,2,0.18,18,Your response does not address my original concern.
+SelfEsteem,2,0.18,18,Your response does not address my original concern.
+Comparing alphanumeric data,3,0.06,18,Your response does not address my original concern.
+Big-heartedness,3,0.14,18,Your response does not address my original concern.
+Compulsive activities,3,0.13,18,Your response does not address my original concern.
+Risktaking,3,0.11,19,This answer is irrelevant to what I asked.
+Naivety,4,0.31,19,This answer is irrelevant to what I asked.
+Acidity,2,0.2,19,This answer is irrelevant to what I asked.
+Democratic Leadership:,2,0.15,19,This answer is irrelevant to what I asked.
+Common-sense,2,0.18,19,This answer is irrelevant to what I asked.
+Hesitation,2,0.22,19,This answer is irrelevant to what I asked.
+Discontentment,3,0.06,19,This answer is irrelevant to what I asked.
+Overprotectiveness,2,0.18,19,This answer is irrelevant to what I asked.
+Merriness,3,0.13,19,This answer is irrelevant to what I asked.
+Emotionalism,2,0.18,19,This answer is irrelevant to what I asked.
+Self-improvement,2,0.16,19,This answer is irrelevant to what I asked.
+Statistical Reasoning,3,0.12,19,This answer is irrelevant to what I asked.
+Assertiveness and control in relationships,3,0.13,19,This answer is irrelevant to what I asked.
+Cunningness,3,0.14,19,This answer is irrelevant to what I asked.
+Adventure-Seeking Behavior,3,0.08,19,This answer is irrelevant to what I asked.
+Compassion Fatigue,3,0.06,19,This answer is irrelevant to what I asked.
+Moroseness,2,0.19,19,This answer is irrelevant to what I asked.
+Specialist,3,0.11,19,This answer is irrelevant to what I asked.
+Aloofness,2,0.19,19,This answer is irrelevant to what I asked.
+Genuine,2,0.2,19,This answer is irrelevant to what I asked.
+Determinedness,2,0.25,19,This answer is irrelevant to what I asked.
+HonestyHumility:,2,0.21,19,This answer is irrelevant to what I asked.
+Relationship Building Themes:,3,0.11,19,This answer is irrelevant to what I asked.
+Pure Challenge,3,0.14,19,This answer is irrelevant to what I asked.
+Numerical Reasoning Subcomponents:,3,0.08,19,This answer is irrelevant to what I asked.
+Openness,2,0.19,19,This answer is irrelevant to what I asked.
+SelfEsteem,3,0.1,19,This answer is irrelevant to what I asked.
+Comparing alphanumeric data,3,0.06,19,This answer is irrelevant to what I asked.
+Big-heartedness,2,0.17,19,This answer is irrelevant to what I asked.
+Compulsive activities,3,0.09,19,This answer is irrelevant to what I asked.
+Risktaking,3,0.03,20,Thank you for your quick response and support.
+Naivety,2,0.15,20,Thank you for your quick response and support.
+Acidity,3,0.04,20,Thank you for your quick response and support.
+Democratic Leadership:,3,0.08,20,Thank you for your quick response and support.
+Common-sense,3,0.11,20,Thank you for your quick response and support.
+Hesitation,3,0.08,20,Thank you for your quick response and support.
+Discontentment,3,-0.03,20,Thank you for your quick response and support.
+Overprotectiveness,3,-0.02,20,Thank you for your quick response and support.
+Merriness,3,0.07,20,Thank you for your quick response and support.
+Emotionalism,3,0.05,20,Thank you for your quick response and support.
+Self-improvement,3,0.06,20,Thank you for your quick response and support.
+Statistical Reasoning,3,-0.02,20,Thank you for your quick response and support.
+Assertiveness and control in relationships,3,0.06,20,Thank you for your quick response and support.
+Cunningness,3,0.03,20,Thank you for your quick response and support.
+Adventure-Seeking Behavior,3,-0.04,20,Thank you for your quick response and support.
+Compassion Fatigue,3,0.1,20,Thank you for your quick response and support.
+Moroseness,3,0.13,20,Thank you for your quick response and support.
+Specialist,3,0.12,20,Thank you for your quick response and support.
+Aloofness,3,0.07,20,Thank you for your quick response and support.
+Genuine,3,0.07,20,Thank you for your quick response and support.
+Determinedness,3,0.02,20,Thank you for your quick response and support.
+HonestyHumility:,3,0.06,20,Thank you for your quick response and support.
+Relationship Building Themes:,3,0.06,20,Thank you for your quick response and support.
+Pure Challenge,3,0.11,20,Thank you for your quick response and support.
+Numerical Reasoning Subcomponents:,3,-0.08,20,Thank you for your quick response and support.
+Openness,3,0.09,20,Thank you for your quick response and support.
+SelfEsteem,3,0.09,20,Thank you for your quick response and support.
+Comparing alphanumeric data,3,0.03,20,Thank you for your quick response and support.
+Big-heartedness,2,0.16,20,Thank you for your quick response and support.
+Compulsive activities,3,-0.01,20,Thank you for your quick response and support.
+Risktaking,2,0.2,21,I appreciate the clarity in your explanation.
+Naivety,2,0.29,21,I appreciate the clarity in your explanation.
+Acidity,2,0.18,21,I appreciate the clarity in your explanation.
+Democratic Leadership:,3,0.09,21,I appreciate the clarity in your explanation.
+Common-sense,2,0.18,21,I appreciate the clarity in your explanation.
+Hesitation,2,0.16,21,I appreciate the clarity in your explanation.
+Discontentment,3,0.1,21,I appreciate the clarity in your explanation.
+Overprotectiveness,2,0.25,21,I appreciate the clarity in your explanation.
+Merriness,3,0.04,21,I appreciate the clarity in your explanation.
+Emotionalism,3,0.13,21,I appreciate the clarity in your explanation.
+Self-improvement,3,0.15,21,I appreciate the clarity in your explanation.
+Statistical Reasoning,2,0.16,21,I appreciate the clarity in your explanation.
+Assertiveness and control in relationships,2,0.21,21,I appreciate the clarity in your explanation.
+Cunningness,3,0.15,21,I appreciate the clarity in your explanation.
+Adventure-Seeking Behavior,3,0.09,21,I appreciate the clarity in your explanation.
+Compassion Fatigue,3,0.08,21,I appreciate the clarity in your explanation.
+Moroseness,2,0.25,21,I appreciate the clarity in your explanation.
+Specialist,3,0.13,21,I appreciate the clarity in your explanation.
+Aloofness,3,0.15,21,I appreciate the clarity in your explanation.
+Genuine,3,0.13,21,I appreciate the clarity in your explanation.
+Determinedness,2,0.25,21,I appreciate the clarity in your explanation.
+HonestyHumility:,2,0.17,21,I appreciate the clarity in your explanation.
+Relationship Building Themes:,3,0.14,21,I appreciate the clarity in your explanation.
+Pure Challenge,2,0.17,21,I appreciate the clarity in your explanation.
+Numerical Reasoning Subcomponents:,3,0.1,21,I appreciate the clarity in your explanation.
+Openness,2,0.27,21,I appreciate the clarity in your explanation.
+SelfEsteem,2,0.15,21,I appreciate the clarity in your explanation.
+Comparing alphanumeric data,3,0.04,21,I appreciate the clarity in your explanation.
+Big-heartedness,3,0.11,21,I appreciate the clarity in your explanation.
+Compulsive activities,3,0.07,21,I appreciate the clarity in your explanation.
+Risktaking,3,0.14,22,The agent was very helpful and polite.
+Naivety,3,0.13,22,The agent was very helpful and polite.
+Acidity,3,0.14,22,The agent was very helpful and polite.
+Democratic Leadership:,3,0.12,22,The agent was very helpful and polite.
+Common-sense,3,0.14,22,The agent was very helpful and polite.
+Hesitation,2,0.18,22,The agent was very helpful and polite.
+Discontentment,3,0.06,22,The agent was very helpful and polite.
+Overprotectiveness,3,0.07,22,The agent was very helpful and polite.
+Merriness,3,0.11,22,The agent was very helpful and polite.
+Emotionalism,3,0.14,22,The agent was very helpful and polite.
+Self-improvement,3,0.07,22,The agent was very helpful and polite.
+Statistical Reasoning,3,0.13,22,The agent was very helpful and polite.
+Assertiveness and control in relationships,3,0.11,22,The agent was very helpful and polite.
+Cunningness,2,0.22,22,The agent was very helpful and polite.
+Adventure-Seeking Behavior,2,0.23,22,The agent was very helpful and polite.
+Compassion Fatigue,2,0.16,22,The agent was very helpful and polite.
+Moroseness,3,0.1,22,The agent was very helpful and polite.
+Specialist,2,0.25,22,The agent was very helpful and polite.
+Aloofness,2,0.16,22,The agent was very helpful and polite.
+Genuine,2,0.16,22,The agent was very helpful and polite.
+Determinedness,3,0.14,22,The agent was very helpful and polite.
+HonestyHumility:,2,0.22,22,The agent was very helpful and polite.
+Relationship Building Themes:,3,0.02,22,The agent was very helpful and polite.
+Pure Challenge,3,0.09,22,The agent was very helpful and polite.
+Numerical Reasoning Subcomponents:,3,0.1,22,The agent was very helpful and polite.
+Openness,3,0.13,22,The agent was very helpful and polite.
+SelfEsteem,3,0.09,22,The agent was very helpful and polite.
+Comparing alphanumeric data,3,0.04,22,The agent was very helpful and polite.
+Big-heartedness,2,0.16,22,The agent was very helpful and polite.
+Compulsive activities,3,-0.03,22,The agent was very helpful and polite.
+Risktaking,2,0.16,23,The manager handled the situation professionally.
+Naivety,3,0.1,23,The manager handled the situation professionally.
+Acidity,3,0.08,23,The manager handled the situation professionally.
+Democratic Leadership:,2,0.17,23,The manager handled the situation professionally.
+Common-sense,3,0.14,23,The manager handled the situation professionally.
+Hesitation,2,0.28,23,The manager handled the situation professionally.
+Discontentment,3,0.12,23,The manager handled the situation professionally.
+Overprotectiveness,2,0.17,23,The manager handled the situation professionally.
+Merriness,3,0.12,23,The manager handled the situation professionally.
+Emotionalism,2,0.15,23,The manager handled the situation professionally.
+Self-improvement,2,0.18,23,The manager handled the situation professionally.
+Statistical Reasoning,3,0.12,23,The manager handled the situation professionally.
+Assertiveness and control in relationships,2,0.18,23,The manager handled the situation professionally.
+Cunningness,3,0.15,23,The manager handled the situation professionally.
+Adventure-Seeking Behavior,2,0.16,23,The manager handled the situation professionally.
+Compassion Fatigue,3,0.09,23,The manager handled the situation professionally.
+Moroseness,3,0.12,23,The manager handled the situation professionally.
+Specialist,4,0.34,23,The manager handled the situation professionally.
+Aloofness,3,0.14,23,The manager handled the situation professionally.
+Genuine,2,0.2,23,The manager handled the situation professionally.
+Determinedness,3,0.12,23,The manager handled the situation professionally.
+HonestyHumility:,2,0.19,23,The manager handled the situation professionally.
+Relationship Building Themes:,3,0.09,23,The manager handled the situation professionally.
+Pure Challenge,3,0.15,23,The manager handled the situation professionally.
+Numerical Reasoning Subcomponents:,3,-0.03,23,The manager handled the situation professionally.
+Openness,3,0.13,23,The manager handled the situation professionally.
+SelfEsteem,3,0.08,23,The manager handled the situation professionally.
+Comparing alphanumeric data,3,-0.03,23,The manager handled the situation professionally.
+Big-heartedness,2,0.16,23,The manager handled the situation professionally.
+Compulsive activities,3,0.09,23,The manager handled the situation professionally.
+Risktaking,2,0.25,24,This shows poor leadership and decision making.
+Naivety,2,0.18,24,This shows poor leadership and decision making.
+Acidity,3,0.14,24,This shows poor leadership and decision making.
+Democratic Leadership:,4,0.49,24,This shows poor leadership and decision making.
+Common-sense,3,0.12,24,This shows poor leadership and decision making.
+Hesitation,2,0.24,24,This shows poor leadership and decision making.
+Discontentment,2,0.22,24,This shows poor leadership and decision making.
+Overprotectiveness,2,0.16,24,This shows poor leadership and decision making.
+Merriness,3,0.13,24,This shows poor leadership and decision making.
+Emotionalism,3,0.14,24,This shows poor leadership and decision making.
+Self-improvement,2,0.15,24,This shows poor leadership and decision making.
+Statistical Reasoning,2,0.16,24,This shows poor leadership and decision making.
+Assertiveness and control in relationships,2,0.17,24,This shows poor leadership and decision making.
+Cunningness,2,0.27,24,This shows poor leadership and decision making.
+Adventure-Seeking Behavior,3,0.06,24,This shows poor leadership and decision making.
+Compassion Fatigue,2,0.17,24,This shows poor leadership and decision making.
+Moroseness,2,0.25,24,This shows poor leadership and decision making.
+Specialist,3,0.13,24,This shows poor leadership and decision making.
+Aloofness,3,0.12,24,This shows poor leadership and decision making.
+Genuine,3,0.07,24,This shows poor leadership and decision making.
+Determinedness,2,0.29,24,This shows poor leadership and decision making.
+HonestyHumility:,2,0.17,24,This shows poor leadership and decision making.
+Relationship Building Themes:,3,0.13,24,This shows poor leadership and decision making.
+Pure Challenge,2,0.18,24,This shows poor leadership and decision making.
+Numerical Reasoning Subcomponents:,3,0.0,24,This shows poor leadership and decision making.
+Openness,2,0.16,24,This shows poor leadership and decision making.
+SelfEsteem,3,0.11,24,This shows poor leadership and decision making.
+Comparing alphanumeric data,3,0.03,24,This shows poor leadership and decision making.
+Big-heartedness,3,0.11,24,This shows poor leadership and decision making.
+Compulsive activities,3,0.1,24,This shows poor leadership and decision making.
+Risktaking,3,0.08,25,The response lacked common sense.
+Naivety,2,0.26,25,The response lacked common sense.
+Acidity,2,0.19,25,The response lacked common sense.
+Democratic Leadership:,2,0.15,25,The response lacked common sense.
+Common-sense,2,0.27,25,The response lacked common sense.
+Hesitation,4,0.33,25,The response lacked common sense.
+Discontentment,2,0.17,25,The response lacked common sense.
+Overprotectiveness,3,0.13,25,The response lacked common sense.
+Merriness,3,0.1,25,The response lacked common sense.
+Emotionalism,2,0.2,25,The response lacked common sense.
+Self-improvement,3,0.07,25,The response lacked common sense.
+Statistical Reasoning,2,0.19,25,The response lacked common sense.
+Assertiveness and control in relationships,3,0.15,25,The response lacked common sense.
+Cunningness,2,0.21,25,The response lacked common sense.
+Adventure-Seeking Behavior,3,0.1,25,The response lacked common sense.
+Compassion Fatigue,2,0.23,25,The response lacked common sense.
+Moroseness,2,0.19,25,The response lacked common sense.
+Specialist,3,-0.0,25,The response lacked common sense.
+Aloofness,2,0.25,25,The response lacked common sense.
+Genuine,3,0.09,25,The response lacked common sense.
+Determinedness,2,0.19,25,The response lacked common sense.
+HonestyHumility:,2,0.23,25,The response lacked common sense.
+Relationship Building Themes:,3,0.11,25,The response lacked common sense.
+Pure Challenge,3,0.13,25,The response lacked common sense.
+Numerical Reasoning Subcomponents:,3,0.06,25,The response lacked common sense.
+Openness,2,0.22,25,The response lacked common sense.
+SelfEsteem,3,0.14,25,The response lacked common sense.
+Comparing alphanumeric data,3,0.03,25,The response lacked common sense.
+Big-heartedness,2,0.17,25,The response lacked common sense.
+Compulsive activities,3,0.04,25,The response lacked common sense.
+Risktaking,2,0.29,26,I shared my personal details without realizing the risk.
+Naivety,3,0.14,26,I shared my personal details without realizing the risk.
+Acidity,3,-0.0,26,I shared my personal details without realizing the risk.
+Democratic Leadership:,3,-0.03,26,I shared my personal details without realizing the risk.
+Common-sense,3,0.12,26,I shared my personal details without realizing the risk.
+Hesitation,3,0.02,26,I shared my personal details without realizing the risk.
+Discontentment,3,0.06,26,I shared my personal details without realizing the risk.
+Overprotectiveness,2,0.27,26,I shared my personal details without realizing the risk.
+Merriness,3,0.02,26,I shared my personal details without realizing the risk.
+Emotionalism,3,0.05,26,I shared my personal details without realizing the risk.
+Self-improvement,2,0.15,26,I shared my personal details without realizing the risk.
+Statistical Reasoning,3,0.01,26,I shared my personal details without realizing the risk.
+Assertiveness and control in relationships,3,0.14,26,I shared my personal details without realizing the risk.
+Cunningness,3,0.12,26,I shared my personal details without realizing the risk.
+Adventure-Seeking Behavior,3,0.07,26,I shared my personal details without realizing the risk.
+Compassion Fatigue,3,0.06,26,I shared my personal details without realizing the risk.
+Moroseness,3,0.04,26,I shared my personal details without realizing the risk.
+Specialist,3,0.07,26,I shared my personal details without realizing the risk.
+Aloofness,3,0.13,26,I shared my personal details without realizing the risk.
+Genuine,2,0.17,26,I shared my personal details without realizing the risk.
+Determinedness,3,0.03,26,I shared my personal details without realizing the risk.
+HonestyHumility:,2,0.23,26,I shared my personal details without realizing the risk.
+Relationship Building Themes:,2,0.19,26,I shared my personal details without realizing the risk.
+Pure Challenge,3,0.12,26,I shared my personal details without realizing the risk.
+Numerical Reasoning Subcomponents:,3,-0.09,26,I shared my personal details without realizing the risk.
+Openness,3,0.07,26,I shared my personal details without realizing the risk.
+SelfEsteem,2,0.18,26,I shared my personal details without realizing the risk.
+Comparing alphanumeric data,3,0.03,26,I shared my personal details without realizing the risk.
+Big-heartedness,3,0.03,26,I shared my personal details without realizing the risk.
+Compulsive activities,2,0.17,26,I shared my personal details without realizing the risk.
+Risktaking,4,0.34,27,I trusted the advice blindly and faced consequences.
+Naivety,2,0.17,27,I trusted the advice blindly and faced consequences.
+Acidity,3,0.06,27,I trusted the advice blindly and faced consequences.
+Democratic Leadership:,3,0.1,27,I trusted the advice blindly and faced consequences.
+Common-sense,3,0.1,27,I trusted the advice blindly and faced consequences.
+Hesitation,2,0.16,27,I trusted the advice blindly and faced consequences.
+Discontentment,3,0.08,27,I trusted the advice blindly and faced consequences.
+Overprotectiveness,2,0.24,27,I trusted the advice blindly and faced consequences.
+Merriness,3,0.06,27,I trusted the advice blindly and faced consequences.
+Emotionalism,3,0.09,27,I trusted the advice blindly and faced consequences.
+Self-improvement,2,0.17,27,I trusted the advice blindly and faced consequences.
+Statistical Reasoning,3,0.04,27,I trusted the advice blindly and faced consequences.
+Assertiveness and control in relationships,2,0.26,27,I trusted the advice blindly and faced consequences.
+Cunningness,2,0.23,27,I trusted the advice blindly and faced consequences.
+Adventure-Seeking Behavior,3,0.07,27,I trusted the advice blindly and faced consequences.
+Compassion Fatigue,3,0.14,27,I trusted the advice blindly and faced consequences.
+Moroseness,3,0.06,27,I trusted the advice blindly and faced consequences.
+Specialist,2,0.17,27,I trusted the advice blindly and faced consequences.
+Aloofness,2,0.16,27,I trusted the advice blindly and faced consequences.
+Genuine,2,0.18,27,I trusted the advice blindly and faced consequences.
+Determinedness,3,0.14,27,I trusted the advice blindly and faced consequences.
+HonestyHumility:,2,0.29,27,I trusted the advice blindly and faced consequences.
+Relationship Building Themes:,3,0.11,27,I trusted the advice blindly and faced consequences.
+Pure Challenge,3,0.04,27,I trusted the advice blindly and faced consequences.
+Numerical Reasoning Subcomponents:,3,-0.01,27,I trusted the advice blindly and faced consequences.
+Openness,3,0.07,27,I trusted the advice blindly and faced consequences.
+SelfEsteem,2,0.16,27,I trusted the advice blindly and faced consequences.
+Comparing alphanumeric data,3,-0.04,27,I trusted the advice blindly and faced consequences.
+Big-heartedness,3,0.11,27,I trusted the advice blindly and faced consequences.
+Compulsive activities,3,0.14,27,I trusted the advice blindly and faced consequences.
+Risktaking,3,-0.07,28,"Although the issue was solved, the communication felt rude."
+Naivety,3,0.15,28,"Although the issue was solved, the communication felt rude."
+Acidity,3,0.08,28,"Although the issue was solved, the communication felt rude."
+Democratic Leadership:,3,0.06,28,"Although the issue was solved, the communication felt rude."
+Common-sense,3,0.14,28,"Although the issue was solved, the communication felt rude."
+Hesitation,2,0.2,28,"Although the issue was solved, the communication felt rude."
+Discontentment,3,0.09,28,"Although the issue was solved, the communication felt rude."
+Overprotectiveness,3,0.05,28,"Although the issue was solved, the communication felt rude."
+Merriness,3,0.05,28,"Although the issue was solved, the communication felt rude."
+Emotionalism,2,0.2,28,"Although the issue was solved, the communication felt rude."
+Self-improvement,3,-0.04,28,"Although the issue was solved, the communication felt rude."
+Statistical Reasoning,3,0.02,28,"Although the issue was solved, the communication felt rude."
+Assertiveness and control in relationships,2,0.2,28,"Although the issue was solved, the communication felt rude."
+Cunningness,3,0.08,28,"Although the issue was solved, the communication felt rude."
+Adventure-Seeking Behavior,3,0.12,28,"Although the issue was solved, the communication felt rude."
+Compassion Fatigue,2,0.17,28,"Although the issue was solved, the communication felt rude."
+Moroseness,3,0.06,28,"Although the issue was solved, the communication felt rude."
+Specialist,3,0.01,28,"Although the issue was solved, the communication felt rude."
+Aloofness,2,0.23,28,"Although the issue was solved, the communication felt rude."
+Genuine,3,0.11,28,"Although the issue was solved, the communication felt rude."
+Determinedness,3,0.07,28,"Although the issue was solved, the communication felt rude."
+HonestyHumility:,2,0.25,28,"Although the issue was solved, the communication felt rude."
+Relationship Building Themes:,3,0.12,28,"Although the issue was solved, the communication felt rude."
+Pure Challenge,3,0.03,28,"Although the issue was solved, the communication felt rude."
+Numerical Reasoning Subcomponents:,3,0.01,28,"Although the issue was solved, the communication felt rude."
+Openness,3,0.07,28,"Although the issue was solved, the communication felt rude."
+SelfEsteem,3,0.03,28,"Although the issue was solved, the communication felt rude."
+Comparing alphanumeric data,3,-0.0,28,"Although the issue was solved, the communication felt rude."
+Big-heartedness,2,0.18,28,"Although the issue was solved, the communication felt rude."
+Compulsive activities,3,-0.04,28,"Although the issue was solved, the communication felt rude."
+Risktaking,3,-0.01,29,"The solution works, but the explanation was confusing."
+Naivety,3,0.1,29,"The solution works, but the explanation was confusing."
+Acidity,3,0.13,29,"The solution works, but the explanation was confusing."
+Democratic Leadership:,3,0.05,29,"The solution works, but the explanation was confusing."
+Common-sense,3,0.09,29,"The solution works, but the explanation was confusing."
+Hesitation,3,0.03,29,"The solution works, but the explanation was confusing."
+Discontentment,3,-0.01,29,"The solution works, but the explanation was confusing."
+Overprotectiveness,3,0.0,29,"The solution works, but the explanation was confusing."
+Merriness,3,0.0,29,"The solution works, but the explanation was confusing."
+Emotionalism,3,0.04,29,"The solution works, but the explanation was confusing."
+Self-improvement,3,0.04,29,"The solution works, but the explanation was confusing."
+Statistical Reasoning,3,0.11,29,"The solution works, but the explanation was confusing."
+Assertiveness and control in relationships,3,-0.03,29,"The solution works, but the explanation was confusing."
+Cunningness,3,0.0,29,"The solution works, but the explanation was confusing."
+Adventure-Seeking Behavior,3,-0.0,29,"The solution works, but the explanation was confusing."
+Compassion Fatigue,3,0.03,29,"The solution works, but the explanation was confusing."
+Moroseness,3,0.02,29,"The solution works, but the explanation was confusing."
+Specialist,3,0.02,29,"The solution works, but the explanation was confusing."
+Aloofness,3,0.04,29,"The solution works, but the explanation was confusing."
+Genuine,3,0.11,29,"The solution works, but the explanation was confusing."
+Determinedness,3,0.04,29,"The solution works, but the explanation was confusing."
+HonestyHumility:,3,0.1,29,"The solution works, but the explanation was confusing."
+Relationship Building Themes:,3,-0.04,29,"The solution works, but the explanation was confusing."
+Pure Challenge,2,0.17,29,"The solution works, but the explanation was confusing."
+Numerical Reasoning Subcomponents:,3,0.14,29,"The solution works, but the explanation was confusing."
+Openness,3,0.03,29,"The solution works, but the explanation was confusing."
+SelfEsteem,3,0.12,29,"The solution works, but the explanation was confusing."
+Comparing alphanumeric data,3,0.01,29,"The solution works, but the explanation was confusing."
+Big-heartedness,3,0.01,29,"The solution works, but the explanation was confusing."
+Compulsive activities,3,-0.11,29,"The solution works, but the explanation was confusing."
+Risktaking,3,0.14,30,This conversation felt manipulative.
+Naivety,2,0.23,30,This conversation felt manipulative.
+Acidity,3,0.14,30,This conversation felt manipulative.
+Democratic Leadership:,3,0.13,30,This conversation felt manipulative.
+Common-sense,2,0.23,30,This conversation felt manipulative.
+Hesitation,2,0.26,30,This conversation felt manipulative.
+Discontentment,4,0.3,30,This conversation felt manipulative.
+Overprotectiveness,3,0.13,30,This conversation felt manipulative.
+Merriness,3,0.14,30,This conversation felt manipulative.
+Emotionalism,4,0.36,30,This conversation felt manipulative.
+Self-improvement,2,0.22,30,This conversation felt manipulative.
+Statistical Reasoning,3,0.09,30,This conversation felt manipulative.
+Assertiveness and control in relationships,2,0.3,30,This conversation felt manipulative.
+Cunningness,4,0.39,30,This conversation felt manipulative.
+Adventure-Seeking Behavior,2,0.21,30,This conversation felt manipulative.
+Compassion Fatigue,2,0.24,30,This conversation felt manipulative.
+Moroseness,2,0.15,30,This conversation felt manipulative.
+Specialist,3,0.07,30,This conversation felt manipulative.
+Aloofness,4,0.34,30,This conversation felt manipulative.
+Genuine,2,0.17,30,This conversation felt manipulative.
+Determinedness,2,0.23,30,This conversation felt manipulative.
+HonestyHumility:,4,0.46,30,This conversation felt manipulative.
+Relationship Building Themes:,2,0.23,30,This conversation felt manipulative.
+Pure Challenge,3,0.14,30,This conversation felt manipulative.
+Numerical Reasoning Subcomponents:,3,0.04,30,This conversation felt manipulative.
+Openness,3,0.13,30,This conversation felt manipulative.
+SelfEsteem,2,0.23,30,This conversation felt manipulative.
+Comparing alphanumeric data,3,0.03,30,This conversation felt manipulative.
+Big-heartedness,4,0.34,30,This conversation felt manipulative.
+Compulsive activities,2,0.27,30,This conversation felt manipulative.
+Risktaking,2,0.27,31,I am unsure whether the advice is reliable.
+Naivety,3,0.06,31,I am unsure whether the advice is reliable.
+Acidity,3,0.02,31,I am unsure whether the advice is reliable.
+Democratic Leadership:,3,0.03,31,I am unsure whether the advice is reliable.
+Common-sense,3,0.03,31,I am unsure whether the advice is reliable.
+Hesitation,3,0.15,31,I am unsure whether the advice is reliable.
+Discontentment,3,0.01,31,I am unsure whether the advice is reliable.
+Overprotectiveness,3,0.12,31,I am unsure whether the advice is reliable.
+Merriness,3,0.04,31,I am unsure whether the advice is reliable.
+Emotionalism,3,0.01,31,I am unsure whether the advice is reliable.
+Self-improvement,3,0.13,31,I am unsure whether the advice is reliable.
+Statistical Reasoning,2,0.16,31,I am unsure whether the advice is reliable.
+Assertiveness and control in relationships,2,0.22,31,I am unsure whether the advice is reliable.
+Cunningness,3,0.13,31,I am unsure whether the advice is reliable.
+Adventure-Seeking Behavior,3,0.08,31,I am unsure whether the advice is reliable.
+Compassion Fatigue,3,0.11,31,I am unsure whether the advice is reliable.
+Moroseness,3,0.06,31,I am unsure whether the advice is reliable.
+Specialist,2,0.18,31,I am unsure whether the advice is reliable.
+Aloofness,3,0.09,31,I am unsure whether the advice is reliable.
+Genuine,3,0.13,31,I am unsure whether the advice is reliable.
+Determinedness,2,0.2,31,I am unsure whether the advice is reliable.
+HonestyHumility:,3,0.1,31,I am unsure whether the advice is reliable.
+Relationship Building Themes:,3,0.13,31,I am unsure whether the advice is reliable.
+Pure Challenge,3,0.0,31,I am unsure whether the advice is reliable.
+Numerical Reasoning Subcomponents:,3,0.05,31,I am unsure whether the advice is reliable.
+Openness,3,0.02,31,I am unsure whether the advice is reliable.
+SelfEsteem,3,0.02,31,I am unsure whether the advice is reliable.
+Comparing alphanumeric data,3,0.06,31,I am unsure whether the advice is reliable.
+Big-heartedness,3,-0.01,31,I am unsure whether the advice is reliable.
+Compulsive activities,3,0.12,31,I am unsure whether the advice is reliable.
+Risktaking,3,0.06,32,The tone of the reply was sarcastic.
+Naivety,2,0.19,32,The tone of the reply was sarcastic.
+Acidity,3,0.13,32,The tone of the reply was sarcastic.
+Democratic Leadership:,3,0.09,32,The tone of the reply was sarcastic.
+Common-sense,3,0.12,32,The tone of the reply was sarcastic.
+Hesitation,2,0.18,32,The tone of the reply was sarcastic.
+Discontentment,2,0.18,32,The tone of the reply was sarcastic.
+Overprotectiveness,3,0.04,32,The tone of the reply was sarcastic.
+Merriness,3,0.09,32,The tone of the reply was sarcastic.
+Emotionalism,2,0.22,32,The tone of the reply was sarcastic.
+Self-improvement,3,0.09,32,The tone of the reply was sarcastic.
+Statistical Reasoning,2,0.16,32,The tone of the reply was sarcastic.
+Assertiveness and control in relationships,3,0.11,32,The tone of the reply was sarcastic.
+Cunningness,2,0.18,32,The tone of the reply was sarcastic.
+Adventure-Seeking Behavior,3,0.08,32,The tone of the reply was sarcastic.
+Compassion Fatigue,2,0.16,32,The tone of the reply was sarcastic.
+Moroseness,2,0.16,32,The tone of the reply was sarcastic.
+Specialist,3,0.08,32,The tone of the reply was sarcastic.
+Aloofness,2,0.24,32,The tone of the reply was sarcastic.
+Genuine,2,0.2,32,The tone of the reply was sarcastic.
+Determinedness,2,0.15,32,The tone of the reply was sarcastic.
+HonestyHumility:,2,0.28,32,The tone of the reply was sarcastic.
+Relationship Building Themes:,3,0.1,32,The tone of the reply was sarcastic.
+Pure Challenge,3,0.09,32,The tone of the reply was sarcastic.
+Numerical Reasoning Subcomponents:,3,0.0,32,The tone of the reply was sarcastic.
+Openness,3,0.11,32,The tone of the reply was sarcastic.
+SelfEsteem,3,0.1,32,The tone of the reply was sarcastic.
+Comparing alphanumeric data,3,0.0,32,The tone of the reply was sarcastic.
+Big-heartedness,2,0.28,32,The tone of the reply was sarcastic.
+Compulsive activities,3,-0.1,32,The tone of the reply was sarcastic.
