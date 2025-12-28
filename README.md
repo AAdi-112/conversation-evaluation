@@ -197,8 +197,8 @@ Local / Colab:
          python ui/app.py
 Docker
 
-    docker build -t ahoum-eval .
-    docker run -p 7860:7860 ahoum-eval
+    docker build -t conversation-eval .
+    docker run -p 7860:7860 conversation-eval
 
 ## Summary
 
